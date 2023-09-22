@@ -1,3 +1,1 @@
-# shop_app
-
-"A new Flutter project."
+# Shop app with Flutter and Dart
