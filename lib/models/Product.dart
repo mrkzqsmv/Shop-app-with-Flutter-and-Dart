@@ -15,6 +15,7 @@ class Product {
       required this.color});
 }
 
+
 List<Product> products = [
   Product(
       image: 'assets/images/bag_1.png',
